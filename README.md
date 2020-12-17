@@ -12,6 +12,7 @@ Images are an increasingly used data source in the social sciences. One applicat
 - [Slides](https://github.com/SocialScienceDataLab/computer-vision-with-facepp-and-microsoft-azure/blob/master/2020_05_mzes.pdf)
 - [R Code 1: Azure](https://github.com/SocialScienceDataLab/computer-vision-with-facepp-and-microsoft-azure/blob/master/azure_function_mzes.R)
 - [R Code 2: Face++](https://github.com/SocialScienceDataLab/computer-vision-with-facepp-and-microsoft-azure/blob/master/facepp_functions_mzes.R)
+- [Recording](https://youtu.be/vTZKwz8Xs80)
 
 ## About the presenter
 [Theresa Küntzler](https://www.polver.uni-konstanz.de/cdm/people/students/kuentzler/) is PhD candidate at the Graduate School of Decision Sciences at the University of Konstanz. She specializes in information processing and statistical analysis. Her research focuses on the role the of emotions in politics, especially in election behaviour.
